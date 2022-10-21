@@ -8,6 +8,15 @@
   line-height: 1.6;
 }
 
+.icon-sub {
+  padding: 0 12px;
+}
+
+.title-link {
+  font-weight: 600;
+  font-size: 15px;
+}
+
 #wrap-cv {
   height: auto;
   background-color: #fff;
